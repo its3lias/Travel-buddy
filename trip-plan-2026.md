@@ -78,3 +78,31 @@ Requiring an **entire short-term rental with AC + desk** (no coliving/dorms) rou
 **Take Plan I — Marseille (9n) → Naples (9n) → Rome (7n), ≈ €2,810** — the cheapest tier, and the cleanest west-to-east spine. Every base is an **entire AC + Wi-Fi short-term unit with a workspace** (Marseille Staycity even has a **dedicated desk + soundproofing** — the best video-call setup found), all on transit and car-free, and every leg is **cheap and direct** (Madrid→Marseille €90, Marseille→Naples €70, the €40 Naples→Rome train, plus the €880 FCO→LAX). **Plan II (Catania → Naples → Rome, €2,809)** is an effective tie if you'd rather start in Sicily — Catania's "A Casa Mia" (~€66/n, confirmed **desk + sofa bed**, steps from Piazza Duomo) is the single best-value AC+desk unit found — but it zig-zags the route. **Keeping a Spanish base (Plan IV) now costs €240+ more**, because peak-season AC+desk apartments in Granada/Seville run ~€90+/night.
 
 **Action flags:** (1) Book **FCO→LAX now**. (2) Lock the Ryanair/Italo legs early — summer fares climb in the final 2–3 weeks. (3) On every studio, **request the twin/2-bed config and a free-cancellation rate**, and confirm a **desk vs dining table** + Wi-Fi speed in recent reviews (all platforms 403-blocked automated checks, so these are estimates to verify live).
+
+---
+
+## 5) Concrete free-cancellation shortlist (Plan I) — checked 16 Jun 2026
+All meet AC + Wi-Fi + desk, sleep 2, central/on transit, and offer a free-cancellation rate. ⭐ = book-first pick.
+
+### Marseille · 26 Jun – 5 Jul (9n)
+- ⭐ **Staycity Centre Vieux Port** (aparthotel) — ~€1,350–1,530/9n — **twin or double**, writing desk + soundproofing — on Vieux-Port, metro 50 m — https://www.booking.com/hotel/fr/staycity-aparthotels-centre-vieux-port.html
+- **Adagio Access Saint-Charles** (Accor, cheapest) — ~€1,030–1,290 — studio (twin on request) — 200 m to metro — https://all.accor.com/hotel/8420/index.en.shtml
+- **Vieux Port – L'Abri Côtier** (Airbnb) — ~€1,250–1,400 — 1 double — 4.91★, on Vieux-Port — https://www.airbnb.com/rooms/46829545
+
+### Naples · 5 – 14 Jul (9n)
+- ⭐ **Dado Apartment** (Airbnb) — ~€900–1,170/9n — 2 bedrooms, writing desk, *"fast Wi-Fi… smart workers"* — centro storico — https://www.airbnb.com/rooms/1052942870401514098
+- **Seta Apartment** (Booking, cheapest) — ~€855–1,080 — 2 bedrooms, work desk — location 10.0 — https://www.booking.com/hotel/it/seta-apartment-napoli.html
+- **Two Rooms Chiaia 37** (Booking) — ~€990–1,260 — 2 bedrooms, desk, 9.7★ — Chiaia — https://www.booking.com/hotel/it/tworoomschiaia37.html
+
+### Rome · 14 – 21 Jul (7n)
+- ⭐ **Numa Rome Trastevere** (aparthotel) — ~€840/7n — queen + single, desk + chair, 25+ Mbps, coworking — book direct ~15% off — https://numastays.com/locations/italy/rome/trastevere/trastevere
+- **Re Monti Guesthouse** (cheapest) — ~€785 — twin (confirm AC + desk in Twin) — Monti, 200 m to Cavour metro — https://www.remontiroma.com/en/index
+- **GuestHost Rione Prati** (Airbnb) — ~€910 — 2 bedrooms, fiber Wi-Fi — Prati, Metro A — https://www.airbnb.com/rooms/918528455555625900
+
+### Revised realistic total (free-cancellation peak-July rates are ~€95–150/n, not the earlier ~€65 "from" teasers)
+| Build | Lodging | Transport | **TOTAL** |
+|---|---|---|---|
+| Value (Adagio + Seta + Re Monti) | ~€2,835 | €1,080 | **~€3,915** |
+| Work-optimized (Staycity + Dado + Numa) | ~€3,240 | €1,080 | **~€4,320** |
+
+Budget **~€3,900–4,300** for Plan I with entire AC+desk units on flexible rates. Cheaper non-refundable rates exist if willing to lock in. Re-verify live before booking (platforms 403-block automated price checks).
