@@ -2,10 +2,15 @@
 
 **Lodging basis (per your update): Airbnb / Booking / hotels / nightly short-term rentals ONLY — no coliving, no monthly-minimum platforms. Every base must explicitly have AC + Wi-Fi + a desk or usable dining-table workspace.** Researched 16 June 2026. All prices EUR, **total for 2**, indicative market rates from search snippets (every booking platform 403-blocks automated page loads, so confirm live dated totals + 2-bed config + free cancellation before booking).
 
-## Block structure (26 Jun – 21 Jul = 25 nights)
-- **Block A:** 26 Jun – 5 Jul (9 nights)
-- **Block B:** 5 Jul – 14 Jul (9 nights)
-- **Rome (fixed):** 14 – 21 Jul (7 nights), fly FCO→LAX 21 Jul
+## FINALIZED block structure (traveler decision, 16 Jun) — Plan I, shortened
+Departure shortened to **Sun 19 Jul** (Rome trimmed; Norse FCO→LAX is near-daily at a flat ~€880/2 fare, so shortening saves lodging only):
+- **Marseille:** 26 Jun – 4 Jul (8 nights)
+- **Naples:** 4 – 13 Jul (9 nights)
+- **Rome:** 13 – 19 Jul (6 nights) → fly **FCO→LAX Sun 19 Jul**
+- *Cheaper alt:* fly **Sat 18 Jul** = Rome 5 nights, saves ~€115 more.
+- Realistic total: **~€3,750 (value picks) / ~€4,035 (work-optimized)** incl. ~€1,080 transport.
+
+*(Original balanced structure was Block A/B 9n + Rome 7n ending 21 Jul; superseded above.)*
 
 ## ⚠️ What changed vs v1 (and why)
 Requiring an **entire short-term rental with AC + desk** (no coliving/dorms) roughly **doubles** the per-night floor and **flips the geography**:
